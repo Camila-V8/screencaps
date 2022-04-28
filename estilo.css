@@ -1,0 +1,93 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+	background-color: #ffffff;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+	background-image: url(pattern.png);
+	background-color: white;
+	height: 80px;
+}
+
+#titulo {
+	text-shadow: 2px 2px 2px #0782BF;
+	color: #082C63;
+	font-size: 40px;
+	margin-left: 620px;
+	padding-top: 20px;
+}
+
+#linea {
+	background-color: #89C5E5;
+	height: 50px;
+}
+
+h1 {
+	font-style: italic;
+	font-size: 25px;
+	padding-top: 10px;
+	padding-left: 580px;
+}
+
+section {
+	background-color: black;
+}
+
+#imagenes {
+	padding-left: 400px;
+	height: 534px;
+	overflow: scroll;
+	padding-top: 20px;
+}
+
+.tablet {
+	margin-left: 100px;
+}
+
+.celu {
+	margin-left: 150px;
+}
+
+
+.titulos {
+	color: white;
+	font-size: 20px;
+	margin-left: -400px;
+	text-align: center;
+	background-color: #082C63;
+	padding-top: 20px;
+	height: 50px;
+}
+
+footer {
+	height: 70px;
+	background-color: #000000;
+	padding: 10px;
+}
+
+#logoUP {
+	padding-left: 200px;
+}
+
+footer h4 {
+	color: #ffffff;
+	margin-top: -45px;
+	margin-left: 670px;
+	text-decoration: none;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+#aldea {
+	padding-left: 1100px;
+	margin-top: -35px;
+}
